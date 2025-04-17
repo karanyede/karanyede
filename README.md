@@ -5,6 +5,7 @@
 
 
 ## 🌐 Socials:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b13de84e470747e296f81a0f2bda67ab)](https://app.codacy.com/gh/karanyede/karanyede?utm_source=github.com&utm_medium=referral&utm_content=karanyede/karanyede&utm_campaign=Badge_Grade)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_karanyede) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karanyede) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Karanyede) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Krnyede) 
 
 # 💻 Tech Stack:
