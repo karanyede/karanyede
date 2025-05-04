@@ -1,10 +1,10 @@
 # 💫 About Me:
-🌟 Engineering Student | Tech Enthusiast | Creative Innovator<br>🔍 Fueled by a relentless passion for technology, graphic design, and problem-solving, I thrive at the intersection of logic and creativity.<br>🚀 My mission? To transform challenges into opportunities for growth and innovation. From coding sleek applications to designing captivating visuals, I’m always pushing boundaries and embracing continuous learning.<br>💡 Let’s connect to spark ideas, collaborate on groundbreaking projects, and explore the limitless possibilities of tech!<br><br>
+🌟 Engineering Student | Tech Enthusiast | Creative Innovator<br>🔍 Fueled by a relentless passion for technology, graphic design, and problem-solving, I thrive at the intersection of logic and creativity.<br>🚀 My mission? To transform challenges into opportunities for growth and innovation. From coding sleek applications to designing captivating visuals, I’m always pushing boundaries and embracing continuous learning.<br>💡 Let’s connect to spark ideas, collaborate on groundbreaking projects, and explore the limitless possibilities of tech!<br>
 
 ## 🌟 What I’m Working On
 🛠 Building some strong projects to showcase my skills.<br>
 🎨 Experimenting with UI/UX design to create user-friendly interfaces.<br>
-💻 Contributing to open-source projects to give back to the tech community.<br><br>
+💻 Contributing to open-source projects to give back to the tech community.<br>
 
 ## 🎯 Fun Facts
 ☕ I code better with a cup of coffee and lo-fi music in the background.<br>
