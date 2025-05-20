@@ -5,7 +5,7 @@
 🛠 Building some strong projects to showcase my skills.<br>
 🎨 Experimenting with UI/UX design to create user-friendly interfaces.<br>
 💻 Contributing to open-source projects to give back to the tech community.<br>
-
+ 
 ## 🎯 Fun Facts
 ☕ I code better with a cup of coffee and lo-fi music in the background.<br>
 🌍 Aspiring to travel the world and learn about tech cultures globally.<br><br>
