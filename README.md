@@ -1,35 +1,111 @@
-# 💫 About Me :
-🌟 Engineering Student | Tech Enthusiast | Creative Innovator<br><br>🔍 Fueled by a relentless passion for technology, graphic design, and problem-solving, I thrive at the intersection of logic and creativity.<br><br>🚀 My mission? To transform challenges into opportunities for growth and innovation. From coding sleek applications to designing captivating visuals, I’m always pushing boundaries and embracing continuous learning.<br><br>💡 Let’s connect to spark ideas, collaborate on groundbreaking projects, and explore the limitless possibilities of tech!<br> 
-  
-## 🌟 What I’m Working On 
-🛠 Building some strong projects to showcase my skills.<br>
-🎨 Experimenting with UI/UX design to create user-friendly interfaces.<br>
-💻 Contributing to open-source projects to give back to the tech community.<br>
- 
-## 🎯 Fun Facts
-☕ I code better with a cup of coffee and lo-fi music in the background.<br>
-🌍 Aspiring to travel the world and learn about tech cultures globally.<br><br>
+<h1 align="center">Hi 👋, I'm Karan Yede</h1>
+<h3 align="center">Engineering Student • Tech Enthusiast • Creative Developer</h3>
 
-# 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/karanyede_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krnyede) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanyede_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karanyede) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karanyede) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30441170) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krnyede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KARAN_YEDE) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/karanyede) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanyyede@gmail.com) <br><br>
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)<br><br>
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=karanyede&theme=chartreuse-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=karanyede&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanyede&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karanyede&theme=flag-india&no-frame=false&no-bg=true&margin-w=4)
-
-###  
-## ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-## 🔝 Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karanyede&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Passionate about building useful tech, designing clean interfaces, and solving real-world problems through creativity and code.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karanyede&icon=2&color=3)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+- 🎓 Engineering student with a strong interest in **software development, UI/UX, and creative tech**
+- 💡 I enjoy combining **logic + creativity** to build projects that are both functional and visually engaging
+- 🛠 Currently focused on **strengthening my development skills through hands-on projects**
+- 🎨 Exploring **graphic design, digital creativity, and user-centered design**
+- 🌱 Always learning, improving, and experimenting with new tools & technologies
+
+---
+
+## 🧠 Current Focus
+
+- 💻 Building projects to improve my **development and problem-solving skills**
+- 🎨 Practicing **UI/UX design** and visual storytelling
+- 🌍 Exploring opportunities to **contribute to open-source**
+- 📚 Continuously learning modern tools, workflows, and technologies
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/nextjs-4479A1?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-FF6C37?style=for-the-badge&logo=python&logoColor=white)
+
+### Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-006039?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 📌 Featured Interests
+
+- 💻 Software Development
+- 🎨 UI/UX & Graphic Design
+- 🚀 Creative Tech Projects
+- 🌐 Web & App Development
+- 📷 Digital Creativity & Content Creation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanyede&show_icons=true&theme=dark" />
+
+  <img src="https://streak-stats.demolab.com?user=karanyede&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://behance.net/karanyede_" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/krnyede" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/karanyede_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/karanyede" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@karanyede" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/30441170" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://x.com/krnyede" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@KARAN_YEDE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/karanyede" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="mailto:karanyyede@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=karanyede&icon=2&color=3" />
+</p>
