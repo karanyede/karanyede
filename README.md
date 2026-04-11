@@ -9,20 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student with a strong interest in **software development, UI/UX, and creative tech**
 - 💡 I enjoy combining **logic + creativity** to build projects that are both functional and visually engaging
 - 🛠 Currently focused on **strengthening my development skills through hands-on projects**
 - 🎨 Exploring **graphic design, digital creativity, and user-centered design**
+- 🌍 Looking for opportunities to **contribute to open-source**
 - 🌱 Always learning, improving, and experimenting with new tools & technologies
-
----
-
-## 🧠 Current Focus
-
-- 💻 Building projects to improve my **development and problem-solving skills**
-- 🎨 Practicing **UI/UX design** and visual storytelling
-- 🌍 Exploring opportunities to **contribute to open-source**
-- 📚 Continuously learning modern tools, workflows, and technologies
 
 ---
 
@@ -46,16 +37,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-006039?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-## 📌 Featured Interests
-
-- 💻 Software Development
-- 🎨 UI/UX & Graphic Design
-- 🚀 Creative Tech Projects
-- 🌐 Web & App Development
-- 📷 Digital Creativity & Content Creation
 
 ---
 
