@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Yede</h1>
-<h3 align="center">Engineering Student • Tech Enthusiast • Creative Developer</h3>
+<h3 align="center">Software Engineer • Tech Enthusiast • Creative Developer</h3>
 
 <p align="center">
-  Passionate about building useful tech, designing clean interfaces, and solving real-world problems through creativity and code.
+  Building useful tech, designing clean interfaces, and solving real-world problems through creativity and code.
 </p>
 
 ---
